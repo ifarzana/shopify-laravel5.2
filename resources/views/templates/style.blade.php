@@ -1,0 +1,5 @@
+@include('templates.style.pagination')
+@include('templates.style.search')
+@include('templates.style.panel')
+@include('templates.style.form')
+@include('templates.style.table')
